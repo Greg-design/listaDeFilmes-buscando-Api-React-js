@@ -1,6 +1,6 @@
 # Projeto lista de filmes, buscando API. 🧛‍♂️🎞🎬📽📷
 
-[<img src="../src/assets/filmes.gif" alt="tela inicial do projeto" >]
+[<img src="./src/assets/filmes.gif" alt="tela inicial do projeto" >]
 
 ## Tecnologias utilizadas
 
